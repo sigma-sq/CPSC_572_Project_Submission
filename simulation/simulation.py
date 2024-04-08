@@ -71,7 +71,7 @@ class RbSim:
                         self.nplt.plot_network(
                             title=f'{key}: Rand_Sim {i}: Lg con comp({_m.lg_conn_comp}), Fc: {_fc} <k>={_avg_deg}'
                         )
-                        self.nplt.log_plot(i, perc_removed)
+                        self.nplt.log_plot(i)
                     else:
                         if _m.lg_conn_comp <= _n / 5:
                             self.nplt.color = 'red'
@@ -98,35 +98,6 @@ class RbSim:
             'null': [self.null_model, self.null_model.G, self.null_model.rgg, null_crit],
             'base': [self.model, self.model.G, None, crit]
         }
-        # Checks to see if we are sub-critical or it continues
-        # i = 0
-        # n = len(self.G.nodes())
-        # fc = self.model.fc
-        # lg_conn_comp = self.model.lg_conn_comp
-        # btwn = nx.betweenness_centrality(self.G)
-        # while self.model.k_avg > 1 and max((max(btwn.values())) > 1):
-        #     perc_removed = np.round(self.total / n, 2)
-        #     print(f'Crit_Thres: {fc}, % removed({perc_removed}) lg_con_comp: {lg_conn_comp}')
-        #     self.nplt.filename = f'sim_{i}'
-        #     i += 1
-        #     print(self.nplt.filename)
-        #
-        #     self.targeted_attack_btwn(btwn)
-        #     self.stats(self.nplt.save)
-        #
-        #     lg_conn_comp = self.lg_con_comp[-1]
-        #
-        #     if lg_conn_comp <= n / 5:
-        #         self.nplt.color = 'red'
-        #
-        #     self.nplt.plot_network(
-        #         title=f'Target_Btwn_Sim: Lg con comp({lg_conn_comp}), Crit Thres: {fc}, % removed({perc_removed})'
-        #     )
-        #
-        #     self.nplt.log_plot(i, perc_removed)
-        #
-        # print(f'Targeted Betweenness attack simulation complete')
-        # self.nplt.color = 'black'
 
         for key, val in mdl.items():
             self.nplt.color = 'black'
@@ -164,12 +135,7 @@ class RbSim:
                     i += 1
                     self.targeted_attack_btwn(_btwn, _g, _rgg)
 
-                    # self.random_attack(_g, _rgg)
-                    # self.stats(val[0].G, self.nplt.save)
-                    # avg_deg = self.avg_deg[-1]
-
                     _m.calc_graph_stats()
-                    # lg_conn_comp = self.lg_con_comp[-1]
 
                     if key != 'null':
                         if _m.lg_conn_comp <= _n / 5:
@@ -178,7 +144,7 @@ class RbSim:
                         self.nplt.plot_network(
                             title=f'{key}: Targeted_Sim {i}: Lg con comp({_m.lg_conn_comp}), Fc: {_fc} <k>={_avg_deg}'
                         )
-                        self.nplt.log_plot(i, perc_removed)
+                        self.nplt.log_plot(i)
                     else:
                         if _m.lg_conn_comp <= _n / 5:
                             self.nplt.color = 'red'
@@ -187,9 +153,6 @@ class RbSim:
                             title=f'{key}: Targeted_Sim {i}: Lg con comp({_m.lg_conn_comp}), Fc: {_fc} <k>={_avg_deg}'
                         )
                         self.nplt.null_degree_dist(i, _avg_deg)
-                        # self.nplt.compare_plot(
-                        #     title=f'{key}: Rand_Sim {i}: Lg con comp({_m.lg_conn_comp}), Crit Thres: {_fc}, % removed({perc_removed})'
-                        # )
 
             self.total = 0
         self.null_model.save = False
@@ -199,8 +162,6 @@ class RbSim:
         n_to_remove = random.sample(list(g.nodes()), self.level)
 
         if self.nplt.type != 'null':
-            # simulate a random node attack
-            # n_to_remove = random.sample(list(g.nodes()), self.level)
             g.remove_nodes_from(n_to_remove)
         else:
             print('remove g')
