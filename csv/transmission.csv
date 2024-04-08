@@ -1,0 +1,480 @@
+Line Name,Voltage (kV),Substation Name,Facility Code,Planning Area,TFO,Capability (MW)
+1002L,240,Amoco Empress,163S,48-Empress,AltaLink,158
+1002L,240,Jenner,275S,48-Empress,AltaLink,265
+1005AL,240,Little Bow,991S,49-Stavely,AltaLink,84
+1005L,240,Picture Butte,120S,54-Lethbridge,AltaLink,311
+1005L,240,Milo,356S,47-Brooks,AltaLink,117
+100L,138,Tilley,498S,47-Brooks,AltaLink,58
+100L,138,Suffield,895S,04-Medicine Hat,AltaLink,62
+1011L,240,Amoco Empress,163S,48-Empress,AltaLink,158
+1011L,240,Cypress,562S,48-Empress,AltaLink,158
+1034L,240,Bowmanton,244S,04-Medicine Hat,AltaLink,466
+1034L,240,Cassils,324S,47-Brooks,AltaLink,466
+1035L,240,Newell,2075S,47-Brooks,AltaLink,466
+1035L,240,Bowmanton,244S,04-Medicine Hat,AltaLink,466
+1036L,240,Milo,356S,47-Brooks,AltaLink,142
+1036L,240,Travers,554S,49-Stavely,AltaLink,212
+1037L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,418
+1037L,240,Foothills,237S,46-High River,AltaLink,337
+1038L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,418
+1038L,240,Foothills,237S,46-High River,AltaLink,337
+1041L,240,North Lethbridge,370S,54-Lethbridge,AltaLink,359
+1041L,240,Travers,554S,49-Stavely,AltaLink,212
+1042L,240,Blackspring Ridge,485S,49-Stavely,AltaLink,197
+1042L,240,Travers,554S,49-Stavely,AltaLink,197
+1047L,240,Nilrem,574S,32-Wainwright,AltaLink,455
+1047L,240,Hansman Lake,650S,37-Provost,AltaLink,466
+1048L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,384
+1048L,240,Peigan,59S,53-Fort Macleod,AltaLink,423
+1049L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,385
+1049L,240,Peigan,59S,53-Fort Macleod,AltaLink,423
+1051L,240,West Brooks,28S,47-Brooks,AltaLink,466
+1051L,240,Cassils,324S,47-Brooks,AltaLink,466
+1052L,240,West Brooks,28S,47-Brooks,AltaLink,466
+1052L,240,Cassils,324S,47-Brooks,AltaLink,466
+1053L,240,Ware Junction,132S,47-Brooks,AltaLink,466
+1053L,240,Cassils,324S,47-Brooks,AltaLink,466
+1071L,240,Castle Rock Ridge,205S,53-Fort Macleod,AltaLink,431
+1071L,240,Fidler,312S,53-Fort Macleod,AltaLink,431
+1072L,240,Goose Lake,103S,53-Fort Macleod,AltaLink,429
+1072L,240,Castle Rock Ridge,205S,53-Fort Macleod,AltaLink,431
+1075L,240,Ware Junction,132S,47-Brooks,AltaLink,466
+1075L,240,West Brooks,28S,47-Brooks,AltaLink,466
+1087L,240,Newell,2075S,47-Brooks,AltaLink,466
+1087L,240,Cassils,324S,47-Brooks,AltaLink,466
+1088L,240,Newell,2075S,47-Brooks,AltaLink,466
+1088L,240,Cassils,324S,47-Brooks,AltaLink,466
+1106L,240,Foothills,237S,46-High River,AltaLink,337
+1106L,240,na,SS-65,6-Calgary,Enmax,466
+1107L,240,Foothills,237S,46-High River,AltaLink,337
+1107L,240,na,SS-65,6-Calgary,Enmax,466
+1148L,240,Shamrock,1018S,04-Medicine Hat,AltaLink,156
+1148L,240,Whitla,251S,04-Medicine Hat,AltaLink,156
+13L/158L,69,Black Diamond,392S,46-High River,AltaLink,16
+13L/158L,69,High River,65S,46-High River,AltaLink,16
+161L,138,Vulcan,255S,49-Stavely,AltaLink,36
+161L,138,Queenstown,504S,45-Strathmore/Blackie,AltaLink,62
+162L,69,Glenwood,229S,55-Glenwood,AltaLink,21
+162L,69,Drywood,415S,55-Glenwood,AltaLink,37
+164L,138,Goose Lake,103S,53-Fort Macleod,AltaLink,104
+164L,138,Drywood,415S,55-Glenwood,AltaLink,122
+170L,138,Coleman,799S,53-Fort Macleod,AltaLink,133
+170L,138,Russell,632S,53-Fort Macleod,AltaLink,131
+172EL,138,Hillridge,139S,54-Lethbridge,AltaLink,5
+172L,138,Chinook,181S,54-Lethbridge,City of Lethbridge,15
+172L,138,Coaldale,254S,54-Lethbridge,AltaLink,8
+172L,138,Coaldale,254S,54-Lethbridge,AltaLink,8
+172L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+172L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+172L,138,Taber,83S,52-Vauxhall,AltaLink,3
+174L,138,Bardo,197S,31-Wetaskiwin,AltaLink,77
+174L,138,North Holden,395S,56-Vegreville,AltaLink,89
+180AL,138,Granum,604S,49-Stavely,AltaLink,28
+180L,138,Fort Macleod,15S,53-Fort Macleod,AltaLink,17
+180L,138,Vulcan,255S,49-Stavely,AltaLink,36
+180L,138,East Stavely,928S,49-Stavely,AltaLink,30
+180L,138,East Stavely,928S,49-Stavely,AltaLink,30
+185AL,69,Drywood,415S,55-Glenwood,AltaLink,24
+185AL,69,Rangeland Yarrow,995S,55-Glenwood,AltaLink,24
+185L,69,Waterton,379S,55-Glenwood,AltaLink,93
+185L,69,Waterton,379S,55-Glenwood,AltaLink,43
+185L,69,Pincher Creek,396S,53-Fort Macleod,AltaLink,54
+185L,69,Drywood,415S,55-Glenwood,AltaLink,74
+197L,138,Stavely,349S,49-Stavely,AltaLink,30
+197L,138,East Stavely,928S,49-Stavely,AltaLink,30
+207L,138,Coalbanks,111S,54-Lethbridge,City of Lethbridge,15
+207L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+225AL,69,Raymond Reservoir,313S,55-Glenwood,AltaLink,10
+225L,69,Magrath,225S,55-Glenwood,AltaLink,15
+225L,69,Magrath,225S,55-Glenwood,AltaLink,11
+225L,69,Glenwood,229S,55-Glenwood,AltaLink,21
+225L,69,Spring Coulee,385S,55-Glenwood,AltaLink,18
+225L,69,Spring Coulee,385S,55-Glenwood,AltaLink,18
+225L,69,Stirling,67S,55-Glenwood,AltaLink,5
+300L/725BL,138,McBride Lake,240S,53-Fort Macleod,AltaLink,18
+398L,138,Hayter,277S,37-Provost,AltaLink,187
+398L,138,Provost,545S,37-Provost,AltaLink,132
+408L,138,Jarrow,252S,32-Wainwright,AltaLink,72
+408L,138,Wainwright,51S,32-Wainwright,AltaLink,115
+412L,138,Pincher Creek,396S,53-Fort Macleod,AltaLink,131
+412L,138,Russell,632S,53-Fort Macleod,AltaLink,131
+413L,138,Castle River,239S,53-Fort Macleod,AltaLink,70
+413L,138,Russell,632S,53-Fort Macleod,AltaLink,70
+434L,138,Foothills,237S,46-High River,AltaLink,58
+434L,138,High River,65S,46-High River,AltaLink,33
+463AL,138,Monarch,492S,54-Lethbridge,AltaLink,16
+463L,138,Fort Macleod,15S,53-Fort Macleod,AltaLink,18
+463L,138,Chinook,181S,54-Lethbridge,City of Lethbridge,15
+472AL,138,Sunken Lake,221S,37-Provost,AltaLink,84
+472L,138,Hughenden,213S,37-Provost,AltaLink,137
+472L,138,Metiskow,648S,37-Provost,AltaLink,138
+491L,138,Jarrow,252S,32-Wainwright,AltaLink,94
+497L,138,Windrise,1063S,53-Fort Macleod,AltaLink,43
+497L,138,Windy Flats,138S,53-Fort Macleod,AltaLink,44
+507L,138,Hull,257S,52-Vauxhall,AltaLink,5
+507L,138,Taber,83S,52-Vauxhall,AltaLink,3
+508L,69,Warner,344S,55-Glenwood,AltaLink,9
+508L,69,Stirling,67S,55-Glenwood,AltaLink,9
+514BL,69,Cowley Ridge,322S,53-Fort Macleod,AltaLink,7
+514L,69,Pincher Creek,396S,53-Fort Macleod,AltaLink,7
+514L,69,Lundbreck,513S,53-Fort Macleod,AltaLink,7
+591L,69,Waterton,379S,55-Glenwood,AltaLink,50
+591L,69,Shell Waterton,502S,55-Glenwood,AltaLink,50
+600L,138,Peace Butte,404S,04-Medicine Hat,AltaLink,111
+600L,138,Bullshead,523S,04-Medicine Hat,AltaLink,109
+601L,138,Wardlow,230S,48-Empress,AltaLink,87
+601L,138,Jenner,275S,48-Empress,AltaLink,86
+603L,138,Windy Flats,138S,53-Fort Macleod,AltaLink,42
+603L,138,Soderglen,243S,53-Fort Macleod,AltaLink,43
+607AL,138,Taber Wind Farm,134S,52-Vauxhall,AltaLink,2
+607L,138,Conrad,135S,52-Vauxhall,AltaLink,2
+607L,138,Fincastle,336S,52-Vauxhall,AltaLink,2
+608AL,138,Blue Trail,528S,53-Fort Macleod,AltaLink,40
+608L,138,Windy Flats,138S,53-Fort Macleod,AltaLink,40
+608L,138,Ardenville Wind Farm,418S,53-Fort Macleod,AltaLink,41
+610L,138,Fincastle,336S,52-Vauxhall,AltaLink,2
+610L,138,Taber,83S,52-Vauxhall,AltaLink,3
+612L,138,Fincastle,336S,52-Vauxhall,AltaLink,2
+612L,138,Burdett,368S,52-Vauxhall,AltaLink,1
+613L,138,Goose Lake,103S,53-Fort Macleod,AltaLink,106
+613L,138,Pincher Creek,396S,53-Fort Macleod,AltaLink,131
+616AL,138,Kettle's Hill,383S,53-Fort Macleod,AltaLink,111
+616L,138,Goose Lake,103S,53-Fort Macleod,AltaLink,137
+616L,138,Peigan,59S,53-Fort Macleod,AltaLink,93
+624L,138,Fidler,312S,53-Fort Macleod,AltaLink,21
+624L,138,Summerview,354S,53-Fort Macleod,AltaLink,21
+646L,138,Foothills,237S,46-High River,AltaLink,58
+646L,138,Okotoks,678S,46-High River,AltaLink,34
+658AL,138,Hilda,662S,48-Empress,AltaLink,60
+658L,138,Cypress,562S,48-Empress,AltaLink,58
+658L,138,Chappice Lake,649S,04-Medicine Hat,AltaLink,35
+666L,138,West Brooks,28S,47-Brooks,AltaLink,109
+666L,138,Tilley,498S,47-Brooks,AltaLink,127
+667L,138,Macdonald,146S,54-Lethbridge,City of Lethbridge,15
+667L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+668L,138,Empress,394S,48-Empress,AltaLink,78
+668L,138,Cypress,562S,48-Empress,AltaLink,120
+669L,138,Amoco Empress,163S,48-Empress,AltaLink,124
+669L,138,Cypress,562S,48-Empress,AltaLink,120
+674L,138,Bowmanton,244S,04-Medicine Hat,AltaLink,35
+674L,138,Chappice Lake,649S,04-Medicine Hat,AltaLink,35
+675L,138,Bowmanton,244S,04-Medicine Hat,AltaLink,267
+675L,138,Al Rothbauer,321S,04-Medicine Hat,AltaLink,220
+676L,138,Bowmanton,244S,04-Medicine Hat,AltaLink,268
+676L,138,Bullshead,523S,04-Medicine Hat,AltaLink,214
+679L,138,Tucuman,478S,32-Wainwright,AltaLink,165
+679L,138,Nilrem,574S,32-Wainwright,AltaLink,224
+680L,138,Tucuman,478S,32-Wainwright,AltaLink,165
+680L,138,Nilrem,574S,32-Wainwright,AltaLink,224
+681L,138,Hardisty,377S,32-Wainwright,AltaLink,220
+681L,138,Tucuman,478S,32-Wainwright,AltaLink,211
+691L,138,Chestermere,419S,6-Calgary,AltaLink,3
+691L,138,Janet,74S,6-Calgary,AltaLink,2
+696L/7L696,138,Lakesend,508S,42-Hanna,AltaLink,87
+696L/7L696,138,Ribstone Creek,892S,42-Hanna,ATCO,85
+6L02,69,Battle River,757S,36-Alliance/Battle River,ATCO,56
+6L02,69,Mannix Mine,765S,36-Alliance/Battle River,ATCO,55
+6L02,69,Mannix Mine,765S,36-Alliance/Battle River,ATCO,58
+6L02,69,Stettler,769S,42-Hanna,ATCO,66
+6L02,69,Marion Lake,873S,42-Hanna,ATCO,91
+6L02,69,Marion Lake,873S,42-Hanna,ATCO,82
+6L03,69,Battle River,757S,36-Alliance/Battle River,ATCO,53
+6L03,69,Sullivan Lake,775S,42-Hanna,ATCO,41
+6L05,69,Battle River,757S,36-Alliance/Battle River,ATCO,58
+6L05,69,Heisler,764S,36-Alliance/Battle River,ATCO,42
+6L05,69,Big Knife Creek,843S,36-Alliance/Battle River,ATCO,59
+6L05,69,Big Knife Creek,843S,36-Alliance/Battle River,ATCO,46
+6L08,69,Bigfoot,756S,36-Alliance/Battle River,ATCO,49
+6L08,69,Battle River,757S,36-Alliance/Battle River,ATCO,48
+6L09,69,Hanna,763S,42-Hanna,ATCO,18
+6L09,69,Oyen,767S,42-Hanna,ATCO,19
+6L09,69,Youngstown,772S,42-Hanna,ATCO,23
+6L09,69,Youngstown,772S,42-Hanna,ATCO,23
+6L09,69,Richdale,776S,42-Hanna,ATCO,22
+6L09,69,Richdale,776S,42-Hanna,ATCO,20
+6L12,69,Sullivan Lake,775S,42-Hanna,ATCO,14
+6L15,69,Hanna,763S,42-Hanna,ATCO,20
+6L15,69,Sullivan Lake,775S,42-Hanna,ATCO,16
+6L17,69,Castor,759S,42-Hanna,ATCO,55
+6L21,69,Youngstown Express,2037S,42-Hanna,ATCO,17
+6L25,69,Coronation,773S,42-Hanna,ATCO,15
+6L44,69,Stettler,769S,42-Hanna,ATCO,8
+6L44,69,Big Valley,778S,42-Hanna,ATCO,8
+6L56,69,Hanna,763S,42-Hanna,ATCO,22
+6L56,69,Michichi Creek,802S,42-Hanna,ATCO,32
+701L,138,Strome,223S,56-Vegreville,AltaLink,136
+701L,138,North Holden,395S,56-Vegreville,AltaLink,81
+701L/7L701,138,Strome,223S,56-Vegreville,AltaLink,135
+702L,138,Sedgewick,137S,32-Wainwright,AltaLink,97
+702L,138,Hardisty,377S,32-Wainwright,AltaLink,65
+702L/7L702,138,Sedgewick,137S,32-Wainwright,AltaLink,97
+702L/7L702,138,Battle River,757S,36-Alliance/Battle River,ATCO,114
+703BL,138,HRT Express,329S,32-Wainwright,AltaLink,107
+703L,138,Hughenden,213S,37-Provost,AltaLink,137
+703L,138,Hardisty,377S,32-Wainwright,AltaLink,105
+704L,138,Tucuman,478S,32-Wainwright,AltaLink,86
+704L,138,Wainwright,51S,32-Wainwright,AltaLink,77
+715AL,138,Hansman Lake,650S,37-Provost,AltaLink,107
+715L,138,Provost,545S,37-Provost,AltaLink,134
+722L,138,Westfield,107S,52-Vauxhall,AltaLink,1
+722L,138,Burdett,368S,52-Vauxhall,AltaLink,1
+725AL,138,Riverbend,618S,54-Lethbridge,AltaLink,15
+725L,138,Coalbanks,111S,54-Lethbridge,City of Lethbridge,15
+725L,138,Fort Macleod,15S,53-Fort Macleod,AltaLink,18
+725L,138,Bowron,674S,54-Lethbridge,City of Lethbridge,16
+725L,138,Bowron,674S,54-Lethbridge,City of Lethbridge,16
+727AL,138,Magcan,142S,46-High River,AltaLink,34
+727L,138,High River,65S,46-High River,AltaLink,33
+727L,138,Okotoks,678S,46-High River,AltaLink,34
+733L,138,Strathmore,151S,45-Strathmore/Blackie,AltaLink,4
+733L,138,Gleichen,179S,45-Strathmore/Blackie,AltaLink,6
+733L,138,Namaka,428S,45-Strathmore/Blackie,AltaLink,5
+733L,138,Namaka,428S,45-Strathmore/Blackie,AltaLink,5
+734L,138,Uplands,241S,54-Lethbridge,City of Lethbridge,15
+734L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+748L,138,Killarney Lake,267S,37-Provost,AltaLink,134
+748L,138,Hayter,277S,37-Provost,AltaLink,187
+749AL,138,Killarney Lake,267S,37-Provost,AltaLink,157
+749L,138,Metiskow,648S,37-Provost,AltaLink,143
+749L,138,Edgerton,899S,37-Provost,AltaLink,171
+749L/7L749,138,Edgerton,899S,37-Provost,AltaLink,159
+753L,138,Blackie,253S,45-Strathmore/Blackie,AltaLink,14
+753L,138,High River,65S,46-High River,AltaLink,33
+760AL,138,Empress Liquids,164S,48-Empress,AltaLink,78
+760L,138,Amoco Empress,163S,48-Empress,AltaLink,95
+760L,138,Amoco Empress,163S,48-Empress,AltaLink,107
+760L,138,Empress,394S,48-Empress,AltaLink,123
+763AL,138,Enchant,447S,52-Vauxhall,AltaLink,11
+763L,138,Vauxhall,158S,52-Vauxhall,AltaLink,7
+763L,138,Vauxhall,158S,52-Vauxhall,AltaLink,7
+763L,138,Hull,257S,52-Vauxhall,AltaLink,5
+763L,138,West Brooks,28S,47-Brooks,AltaLink,70
+765L,138,Strathmore,151S,45-Strathmore/Blackie,AltaLink,4
+765L,138,Chestermere,419S,6-Calgary,AltaLink,3
+769AL,138,Clipper,656S,32-Wainwright,AltaLink,84
+769BL,138,Battle Sands,594S,32-Wainwright,AltaLink,90
+769L,138,Rosyth,296S,32-Wainwright,AltaLink,77
+769L,138,Hardisty,377S,32-Wainwright,AltaLink,90
+770L,138,Coaldale,254S,54-Lethbridge,AltaLink,8
+770L,138,North Lethbridge,370S,54-Lethbridge,AltaLink,15
+782L,138,Wyndham,269S,45-Strathmore/Blackie,AltaLink,20
+782L,138,Carseland,525S,45-Strathmore/Blackie,AltaLink,20
+786L,138,Coleman,799S,53-Fort Macleod,AltaLink,99
+794L/7L794,138,Lac La Biche,157S,27-Athabasca/Lac La Biche,AltaLink,96
+794L/7L794,138,Whitbylake,819S,56-Vegreville,ATCO,95
+795L,138,Brooks,121S,47-Brooks,AltaLink,84
+795L,138,Hays,421S,52-Vauxhall,AltaLink,11
+7L110,138,Monitor,774S,42-Hanna,ATCO,86
+7L110,138,Loyalist,903S,42-Hanna,ATCO,86
+7L116,138,Excel,910S,42-Hanna,ATCO,92
+7L116,138,Lanfine,959S,42-Hanna,ATCO,92
+7L117,138,Irish Creek,706S,13-Lloydminster,ATCO,170
+7L117,138,Vermilion,710S,13-Lloydminster,ATCO,111
+7L127,138,Monitor,774S,42-Hanna,ATCO,235
+7L127,138,Pemukan,932S,42-Hanna,ATCO,227
+7L128,138,Michichi Creek,802S,42-Hanna,ATCO,222
+7L128,138,Coyote Lake,963S,43-Sheerness,ATCO,204
+7L129,138,Buffalo Creek,526S,32-Wainwright,AltaLink,131
+7L129,138,Vermilion,710S,13-Lloydminster,ATCO,93
+7L130,138,Kitscoty,705S,13-Lloydminster,ATCO,161
+7L130,138,Vermilion,710S,13-Lloydminster,ATCO,122
+7L132,138,Oyen,767S,42-Hanna,ATCO,134
+7L132,138,Lanfine,959S,42-Hanna,ATCO,125
+7L137,138,Rowley,768S,42-Hanna,ATCO,125
+7L137,138,Three Hills,770S,42-Hanna,ATCO,87
+7L139,138,St. Paul,707S,56-Vegreville,ATCO,147
+7L139,138,Whitbylake,819S,56-Vegreville,ATCO,113
+7L14,138,Kitscoty,705S,13-Lloydminster,ATCO,156
+7L14,138,Hill,751S,13-Lloydminster,ATCO,172
+7L143,138,Nevis,766S,42-Hanna,ATCO,77
+7L143,138,Stettler,769S,42-Hanna,ATCO,84
+7L153,138,Wheatland,609S,43-Sheerness,ATCO,50
+7L153,138,Wintering Hills,804S,43-Sheerness,ATCO,50
+7L159,138,Three Hills,770S,42-Hanna,ATCO,87
+7L159,138,Heatburg,948S,42-Hanna,ATCO,64
+7L16,138,Nevis,766S,42-Hanna,ATCO,56
+7L16,138,Heatburg,948S,42-Hanna,ATCO,69
+7L171,138,Michichi Creek,802S,42-Hanna,ATCO,38
+7L171,138,Wintering Hills,804S,43-Sheerness,ATCO,50
+7L224,138,Hansman Lake,650S,37-Provost,AltaLink,90
+7L224,138,Monitor,774S,42-Hanna,ATCO,146
+7L238,138,Buffalo Bird,601S,42-Hanna,ATCO,182
+7L238,138,Lanfine,959S,42-Hanna,ATCO,181
+7L25,138,Rowley,768S,42-Hanna,ATCO,129
+7L25,138,Michichi Creek,802S,42-Hanna,ATCO,107
+7L42,138,Lloydminster,716S,13-Lloydminster,ATCO,175
+7L42,138,Hill,751S,13-Lloydminster,ATCO,167
+7L50,138,Buffalo Creek,526S,32-Wainwright,AltaLink,80
+7L50,138,Battle River,757S,36-Alliance/Battle River,ATCO,132
+7L53,138,Bonnyville,700S,28-Cold Lake,ATCO,124
+7L53,138,Irish Creek,706S,13-Lloydminster,ATCO,127
+7L65,138,Vegreville,709S,56-Vegreville,ATCO,126
+7L65,138,Vermilion,710S,13-Lloydminster,ATCO,117
+7L70,138,Bonnyville,700S,28-Cold Lake,ATCO,114
+7L70,138,St. Paul,707S,56-Vegreville,ATCO,170
+7L701,138,Battle River,757S,36-Alliance/Battle River,ATCO,176
+7L749,138,Lloydminster,716S,13-Lloydminster,ATCO,92
+7L760,138,Oyen,767S,42-Hanna,ATCO,103
+7L77,138,North Holden,395S,56-Vegreville,AltaLink,123
+7L77,138,Vegreville,709S,56-Vegreville,ATCO,94
+7L79,138,Veteran,771S,42-Hanna,ATCO,102
+7L79,138,Veteran,771S,42-Hanna,ATCO,108
+7L79,138,Ribstone Creek,892S,42-Hanna,ATCO,103
+7L79,138,Pemukan,932S,42-Hanna,ATCO,106
+7L85,138,Anderson,801S,43-Sheerness,ATCO,85
+7L85,138,Bullpound,803S,43-Sheerness,ATCO,70
+7L85,138,Bullpound,803S,43-Sheerness,ATCO,70
+7L85,138,Wintering Hills,804S,43-Sheerness,ATCO,50
+7L85AL,138,Badlands,981S,43-Sheerness,ATCO,56
+7L92,138,Vegreville,709S,56-Vegreville,ATCO,114
+7L92,138,Vilna,777S,56-Vegreville,ATCO,156
+7L92,138,Vilna,777S,56-Vegreville,ATCO,140
+7L92,138,Whitbylake,819S,56-Vegreville,ATCO,147
+7LA128,138,Highland,572S,42-Hanna,AltaLink,180
+7LA129,138,Bauer,918S,13-Lloydminster,ATCO,108
+7LA159,138,Ghost Pine,114S,42-Hanna,ATCO,24
+7LA53,138,Lindbergh,969S,28-Cold Lake,ATCO,87
+7LA65,138,Grizzly Bear,708S,13-Lloydminster,ATCO,134
+7LA701,138,Heisler,764S,36-Alliance/Battle River,ATCO,129
+7LA760,138,Bindloss,914S,48-Empress,ATCO,100
+7LA92,138,Watt Lake,956S,56-Vegreville,ATCO,44
+7LB749,138,Briker,880S,13-Lloydminster,ATCO,101
+7LB760,138,Cavendish,893S,48-Empress,ATCO,100
+812AL,138,Hartell,512S,46-High River,AltaLink,34
+812L,138,Black Diamond,392S,46-High River,AltaLink,34
+812L,138,High River,65S,46-High River,AltaLink,33
+813L,138,Macdonald,146S,54-Lethbridge,City of Lethbridge,15
+813L,138,Uplands,241S,54-Lethbridge,City of Lethbridge,15
+814L,138,Brooks,121S,47-Brooks,AltaLink,233
+814L,138,West Brooks,28S,47-Brooks,AltaLink,154
+820AL,138,Chin Chute,315S,54-Lethbridge,AltaLink,8
+820L,138,Coaldale,254S,54-Lethbridge,AltaLink,8
+820L,138,Stirling,67S,55-Glenwood,AltaLink,8
+821L,138,Vauxhall,158S,52-Vauxhall,AltaLink,7
+821L,138,Hays,421S,52-Vauxhall,AltaLink,11
+823L,138,Macdonald,146S,54-Lethbridge,City of Lethbridge,15
+823L,138,Lakeview,593S,54-Lethbridge,City of Lethbridge,15
+824L,138,Lakeview,593S,54-Lethbridge,City of Lethbridge,15
+824L,138,Riverbend,618S,54-Lethbridge,AltaLink,15
+827L,138,Brooks,121S,47-Brooks,AltaLink,233
+827L,138,West Brooks,28S,47-Brooks,AltaLink,154
+830L,138,Cypress,562S,48-Empress,AltaLink,25
+831AL,138,Cutting Lake,227S,47-Brooks,AltaLink,90
+831L,138,Brooks,121S,47-Brooks,AltaLink,90
+831L,138,Duchess,339S,47-Brooks,AltaLink,91
+850L,138,Carseland,525S,45-Strathmore/Blackie,AltaLink,20
+850L,138,Okotoks,678S,46-High River,AltaLink,34
+851L,138,Blackie,253S,45-Strathmore/Blackie,AltaLink,14
+851L,138,Carseland,525S,45-Strathmore/Blackie,AltaLink,20
+853AL,138,Bassano,435S,47-Brooks,AltaLink,83
+853L,138,West Brooks,28S,47-Brooks,AltaLink,75
+853L,138,Queenstown,504S,45-Strathmore/Blackie,AltaLink,63
+863L,138,Magrath,225S,55-Glenwood,AltaLink,15
+863L,138,Riverbend,618S,54-Lethbridge,AltaLink,15
+869L,138,Amoco Empress,163S,48-Empress,AltaLink,44
+869L,138,Sandy Point,204S,48-Empress,AltaLink,44
+871L,138,Amoco Empress,163S,48-Empress,AltaLink,116
+871L,138,Sand Hills Sub,341S,48-Empress,AltaLink,116
+876L,138,Gleichen,179S,45-Strathmore/Blackie,AltaLink,6
+876L,138,Blackie,253S,45-Strathmore/Blackie,AltaLink,14
+879AL,138,Rattlesnake Ridge,719S,04-Medicine Hat,AltaLink,1
+879L,138,Bowmanton,244S,04-Medicine Hat,AltaLink,3
+879L,138,Burdett,368S,52-Vauxhall,AltaLink,1
+880L,138,Al Rothbauer,321S,04-Medicine Hat,AltaLink,154
+880L,138,Bullshead,523S,04-Medicine Hat,AltaLink,128
+885L,138,Metiskow,648S,37-Provost,AltaLink,437
+885L,138,Hansman Lake,650S,37-Provost,AltaLink,451
+886L,138,Namaka,428S,45-Strathmore/Blackie,AltaLink,5
+886L,138,Hussar,431S,45-Strathmore/Blackie,AltaLink,5
+891L,138,Garden City,226S,55-Glenwood,AltaLink,15
+892L,138,Bowmanton,244S,04-Medicine Hat,AltaLink,35
+892L,138,Suffield,895S,04-Medicine Hat,AltaLink,62
+893AL,138,Windy Point,112S,53-Fort Macleod,AltaLink,64
+893L,138,Fidler,312S,53-Fort Macleod,AltaLink,93
+893L,138,Oldman River,806S,53-Fort Macleod,AltaLink,65
+912L,240,Red Deer,63S,35-Red Deer,AltaLink,342
+912L,240,Nevis,766S,42-Hanna,ATCO,466
+923L,240,Newell,2075S,47-Brooks,AltaLink,466
+923L,240,Milo,356S,47-Brooks,AltaLink,466
+924L,240,Langdon,102S,6-Calgary,AltaLink,378
+924L,240,Milo,356S,47-Brooks,AltaLink,466
+927L,240,Langdon,102S,6-Calgary,AltaLink,408
+927L,240,Milo,356S,47-Brooks,AltaLink,466
+931L,240,Ware Junction,132S,47-Brooks,AltaLink,466
+931L,240,West Brooks,28S,47-Brooks,AltaLink,466
+933L/9L933,240,Ware Junction,132S,47-Brooks,AltaLink,414
+933L/9L933,240,Anderson,801S,43-Sheerness,ATCO,466
+934L/9L934,240,Ware Junction,132S,47-Brooks,AltaLink,297
+934L/9L934,240,Anderson,801S,43-Sheerness,ATCO,466
+935L,240,Cassils,324S,47-Brooks,AltaLink,466
+935L,240,Milo,356S,47-Brooks,AltaLink,466
+940L,240,Picture Butte,120S,54-Lethbridge,AltaLink,311
+940L,240,North Lethbridge,370S,54-Lethbridge,AltaLink,303
+944L,240,Ware Junction,132S,47-Brooks,AltaLink,466
+944L,240,Jenner,275S,48-Empress,AltaLink,265
+945L,240,Jenner,275S,48-Empress,AltaLink,265
+945L,240,Cypress,562S,48-Empress,AltaLink,158
+948L/9L948,240,Hansman Lake,650S,37-Provost,AltaLink,300
+948L/9L948,240,Paintearth Creek,863S,36-Alliance/Battle River,ATCO,432
+949L,240,Jenner,275S,48-Empress,AltaLink,265
+949L,240,Halsbury,306S,48-Empress,AltaLink,267
+950L/9L950,240,Ware Junction,132S,47-Brooks,AltaLink,298
+950L/9L950,240,Anderson,801S,43-Sheerness,ATCO,466
+951L,240,Ware Junction,132S,47-Brooks,AltaLink,466
+951L,240,Jenner,275S,48-Empress,AltaLink,265
+953L/9L953,240,Nilrem,574S,32-Wainwright,AltaLink,455
+953L/9L953,240,Cordel,755S,36-Alliance/Battle River,ATCO,466
+954L,240,Metiskow,648S,37-Provost,AltaLink,392
+954L,240,Hansman Lake,650S,37-Provost,AltaLink,390
+955L,240,Goose Lake,103S,53-Fort Macleod,AltaLink,429
+955L,240,Peigan,59S,53-Fort Macleod,AltaLink,398
+956L,240,Goose Lake,103S,53-Fort Macleod,AltaLink,429
+956L,240,Peigan,59S,53-Fort Macleod,AltaLink,398
+964AL,240,Granlea,1024S,04-Medicine Hat,AltaLink,466
+964L,240,Bowmanton,244S,04-Medicine Hat,AltaLink,466
+964L,240,Whitla,251S,04-Medicine Hat,AltaLink,466
+966L/9L966,240,Hansman Lake,650S,37-Provost,AltaLink,466
+966L/9L966,240,Pemukan,932S,42-Hanna,ATCO,466
+967L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,418
+967L,240,North Lethbridge,370S,54-Lethbridge,AltaLink,368
+968L,240,Windy Flats,138S,53-Fort Macleod,AltaLink,418
+968L,240,North Lethbridge,370S,54-Lethbridge,AltaLink,368
+983AL,240,Woolchester,1019S,04-Medicine Hat,AltaLink,466
+983L,240,Bowmanton,244S,04-Medicine Hat,AltaLink,466
+983L,240,Whitla,251S,04-Medicine Hat,AltaLink,466
+994L,240,Goose Lake,103S,53-Fort Macleod,AltaLink,429
+994L,240,Fidler,312S,53-Fort Macleod,AltaLink,431
+9L100,240,Anderson,801S,43-Sheerness,ATCO,65
+9L100,240,Sheerness,807S,43-Sheerness,ATCO,65
+9L16,240,Cordel,755S,36-Alliance/Battle River,ATCO,287
+9L16,240,Tinchebray,972S,36-Alliance/Battle River,ATCO,313
+9L20,240,Cordel,755S,36-Alliance/Battle River,ATCO,466
+9L20,240,Nevis,766S,36-Alliance/Battle River,ATCO,335
+9L24,240,Oakland,946S,43-Sheerness,ATCO,466
+9L24,240,Lanfine,959S,42-Hanna,ATCO,466
+9L27,240,Cordel,755S,36-Alliance/Battle River,ATCO,466
+9L27,240,Paintearth Creek,863S,36-Alliance/Battle River,ATCO,466
+9L29,240,Oakland,946S,43-Sheerness,ATCO,466
+9L29,240,Coyote Lake,963S,43-Sheerness,ATCO,466
+9L46,240,Pemukan,932S,42-Hanna,ATCO,320
+9L46,240,Lanfine,959S,42-Hanna,ATCO,466
+9L46AL,240,Sedalia,363S,42-Hanna,ATCO,395
+9L59,240,Anderson,801S,43-Sheerness,ATCO,466
+9L59,240,Tinchebray,972S,36-Alliance/Battle River,ATCO,313
+9L59AL,240,Garden Plain,1045S,42-Hanna,ATCO,466
+9L70,240,Anderson,801S,43-Sheerness,ATCO,466
+9L70,240,Oakland,946S,43-Sheerness,ATCO,466
+9L79,240,Cordel,755S,36-Alliance/Battle River,ATCO,108
+9L79,240,Battle River,757S,36-Alliance/Battle River,ATCO,108
+9L80,240,Cordel,755S,36-Alliance/Battle River,ATCO,466
+9L80,240,Battle River,757S,36-Alliance/Battle River,ATCO,466
+9L93,240,Halkirk,615S,42-Hanna,ATCO,233
+9L93,240,Tinchebray,972S,36-Alliance/Battle River,ATCO,232
+9L97,240,Anderson,801S,43-Sheerness,ATCO,466
+9L97,240,Oakland,946S,43-Sheerness,ATCO,466
+9L99,240,Anderson,801S,43-Sheerness,ATCO,83
+9L99,240,Sheerness,807S,43-Sheerness,ATCO,83
+CHD-1,69,Magrath,225S,55-Glenwood,AltaLink,15
+CHD-1,69,Taylor Hydro Plant,,55-Glenwood,AltaLink,15
+PCES01L,138,Namaka,428S,45-Strathmore/Blackie,AltaLink,5
+PCES01L,138,Cavalier,,45-Strathmore/Blackie,AltaLink,5

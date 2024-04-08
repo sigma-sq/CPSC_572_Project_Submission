@@ -1,0 +1,458 @@
+Source Substation ID,Source Substation Name,Target Substation ID,Target Substation Name,Line Name
+0,Al Rothbauer,26,Bullshead,880L
+0,Al Rothbauer,19,Bowmanton,675L
+1,Amoco Empress,93,Jenner,1002L
+1,Amoco Empress,146,Sand Hills Sub,871L
+1,Amoco Empress,147,Sandy Point,869L
+1,Amoco Empress,49,Cypress,669L
+1,Amoco Empress,49,Cypress,1011L
+1,Amoco Empress,54,Empress,760L
+2,Anderson,182,Ware Junction,950L/9L950
+2,Anderson,151,Sheerness,9L100
+2,Anderson,151,Sheerness,9L99
+2,Anderson,124,Oakland,9L97
+2,Anderson,170,Tinchebray,9L59
+2,Anderson,29,Cassils,934L/9L934
+2,Anderson,25,Bullpound,7L85
+2,Anderson,182,Ware Junction,933L/9L933
+2,Anderson,124,Oakland,9L70
+3,Ardenville Wind Farm,59,Fincastle,608L
+4,Badlands,175,Vegreville,7L85AL
+5,Bardo,122,North Holden,174L
+6,Bassano,186,West Brooks,853AL
+7,Battle River,81,Heisler,6L05
+7,Battle River,18,Bonnyville,7L50
+7,Battle River,104,Lloydminster,7L701
+7,Battle River,44,Cordel,9L79
+7,Battle River,72,Halkirk,9L80
+7,Battle River,71,HRT Express,702L/7L702
+7,Battle River,74,Hanna,6L08
+7,Battle River,110,Mannix Mine,6L02
+7,Battle River,162,Sullivan Lake,6L03
+8,Battle Sands,143,Rosyth,769BL
+9,Bauer,64,Ghost Pine,7LA129
+10,Big Knife Creek,12,Bigfoot,6L05
+11,Big Valley,74,Hanna,6L44
+12,Bigfoot,7,Battle River,6L08
+13,Bindloss,185,Watt Lake,7LA760
+14,Black Diamond,82,High River,812L
+14,Black Diamond,82,High River,13L/158L
+15,Blackie,82,High River,753L
+15,Blackie,28,Carseland,851L
+15,Blackie,137,Rattlesnake Ridge,876L
+16,Blackspring Ridge,171,Travers,1042L
+17,Blue Trail,192,Windy Flats,608AL
+18,Bonnyville,90,Irish Creek,7L53
+18,Bonnyville,155,St. Paul,7L70
+19,Bowmanton,190,Whitla,964L
+19,Bowmanton,0,Al Rothbauer,675L
+19,Bowmanton,35,Chappice Lake,674L
+19,Bowmanton,161,Suffield,892L
+19,Bowmanton,26,Bullshead,676L
+19,Bowmanton,115,Milo,1035L
+19,Bowmanton,29,Cassils,1034L
+19,Bowmanton,190,Whitla,983L
+19,Bowmanton,27,Burdett,879L
+20,Bowron,108,Magcan,725L
+21,Briker,34,Cavendish,7LB749
+22,Brooks,78,Hays,795L
+22,Brooks,51,Duchess,831L
+22,Brooks,186,West Brooks,827L
+22,Brooks,186,West Brooks,814L
+23,Buffalo Bird,100,Lanfine,7L238
+24,Buffalo Creek,7,Battle River,7L50
+24,Buffalo Creek,176,Vermilion,7L129
+25,Bullpound,194,Wintering Hills,7L85
+26,Bullshead,181,Wardlow,600L
+26,Bullshead,172,Tucuman,676L
+26,Bullshead,113,Metiskow,880L
+27,Burdett,142,Riverbend,722L
+27,Burdett,0,Al Rothbauer,879L
+27,Burdett,67,Goose Lake,612L
+28,Carseland,125,Okotoks,850L
+28,Carseland,6,Bassano,851L
+28,Carseland,42,Coleman,782L
+29,Cassils,31,Castle Rock Ridge,1053L
+29,Cassils,120,Newell,1034L
+29,Cassils,120,Newell,1087L
+29,Cassils,60,Foothills,1088L
+29,Cassils,115,Milo,935L
+29,Cassils,182,Ware Junction,1052L
+29,Cassils,186,West Brooks,1051L
+30,Castle River,145,Russell,413L
+31,Castle Rock Ridge,58,Fidler,1071L
+31,Castle Rock Ridge,182,Ware Junction,1072L
+32,Castor,198,Youngstown Express,6L17
+34,Cavendish,77,Hartell,7LB760
+35,Chappice Lake,19,Bowmanton,674L
+35,Chappice Lake,186,West Brooks,658L
+36,Chestermere,39,Clipper,765L
+36,Chestermere,91,Janet,691L
+37,Chin Chute,41,Coaldale,820AL
+38,Chinook,164,Sunken Lake,463L
+38,Chinook,41,Coaldale,172L
+39,Clipper,8,Battle Sands,769AL
+40,Coalbanks,61,Fort Macleod,725L
+40,Coalbanks,123,North Lethbridge,207L
+41,Coaldale,158,Stirling,820L
+41,Coaldale,123,North Lethbridge,172L
+41,Coaldale,123,North Lethbridge,770L
+42,Coleman,145,Russell,170L
+42,Coleman,97,Lac La Biche,786L
+43,Conrad,59,Fincastle,607L
+44,Cordel,7,Battle River,9L80
+44,Cordel,7,Battle River,9L79
+44,Cordel,113,Metiskow,953L/9L953
+44,Cordel,170,Tinchebray,9L16
+44,Cordel,119,Nevis,9L20
+44,Cordel,128,Paintearth Creek,9L27
+45,Coronation,157,Stettler,6L25
+46,Cowley Ridge,133,Pincher Creek,514BL
+47,Coyote Lake,24,Buffalo Creek,7L128
+47,Coyote Lake,131,Pemukan,9L29
+48,Cutting Lake,22,Brooks,831AL
+49,Cypress,35,Chappice Lake,658L
+49,Cypress,19,Bowmanton,669L
+49,Cypress,1,Amoco Empress,668L
+49,Cypress,19,Bowmanton,1011L
+49,Cypress,75,Hansman Lake,945L
+49,Cypress,48,Cutting Lake,830L
+50,Drywood,67,Goose Lake,162L
+50,Drywood,42,Coleman,164L
+50,Drywood,136,Rangeland Yarrow,185AL
+50,Drywood,156,Stavely,185L
+51,Duchess,28,Carseland,831L
+52,East Stavely,50,Drywood,180L
+52,East Stavely,40,Coalbanks,197L
+53,Edgerton,15,Blackie,749L/7L749
+54,Empress,56,Enchant,760L
+54,Empress,49,Cypress,668L
+55,Empress Liquids,1,Amoco Empress,760AL
+56,Enchant,174,Vauxhall,763AL
+57,Excel,100,Lanfine,7L116
+58,Fidler,126,Oldman River,893L
+58,Fidler,67,Goose Lake,1071L
+58,Fidler,163,Summerview,624L
+58,Fidler,2,Anderson,994L
+59,Fincastle,17,Blue Trail,607L
+59,Fincastle,165,Taber,610L
+59,Fincastle,27,Burdett,612L
+60,Foothills,192,Windy Flats,1037L
+60,Foothills,125,Okotoks,646L
+60,Foothills,199,na,1106L
+60,Foothills,199,na,1107L
+60,Foothills,123,North Lethbridge,1038L
+60,Foothills,82,High River,434L
+61,Fort Macleod,179,Vulcan,180L
+61,Fort Macleod,38,Chinook,463L
+61,Fort Macleod,20,Bowron,725L
+62,Garden City,19,Bowmanton,891L
+63,Garden Plain,2,Anderson,9L59AL
+64,Ghost Pine,102,Lindbergh,7LA159
+65,Gleichen,15,Blackie,876L
+65,Gleichen,118,Namaka,733L
+66,Glenwood,154,Spring Coulee,225L
+66,Glenwood,50,Drywood,162L
+67,Goose Lake,130,Peigan,955L
+67,Goose Lake,130,Peigan,956L
+67,Goose Lake,50,Drywood,164L
+67,Goose Lake,31,Castle Rock Ridge,1072L
+67,Goose Lake,58,Fidler,994L
+67,Goose Lake,130,Peigan,616L
+67,Goose Lake,133,Pincher Creek,613L
+68,Granlea,19,Bowmanton,964AL
+69,Granum,61,Fort Macleod,180AL
+70,Grizzly Bear,81,Heisler,7LA65
+71,HRT Express,87,Hughenden,703BL
+72,Halkirk,170,Tinchebray,9L93
+73,Halsbury,182,Ware Junction,949L
+74,Hanna,162,Sullivan Lake,6L15
+74,Hanna,114,Michichi Creek,6L56
+74,Hanna,127,Oyen,6L09
+75,Hansman Lake,192,Windy Flats,1047L
+75,Hansman Lake,67,Goose Lake,954L
+75,Hansman Lake,117,Monitor,7L224
+75,Hansman Lake,131,Pemukan,966L/9L966
+75,Hansman Lake,134,Provost,715AL
+75,Hansman Lake,118,Namaka,885L
+75,Hansman Lake,128,Paintearth Creek,948L/9L948
+76,Hardisty,149,Sedgewick,702L
+76,Hardisty,172,Tucuman,703L
+76,Hardisty,41,Coaldale,769L
+76,Hardisty,172,Tucuman,681L
+77,Hartell,14,Black Diamond,812AL
+78,Hays,117,Monitor,795L
+78,Hays,107,Macdonald,821L
+79,Hayter,95,Killarney Lake,748L
+79,Hayter,134,Provost,398L
+80,Heatburg,119,Nevis,7L159
+80,Heatburg,114,Michichi Creek,7L16
+81,Heisler,13,Bindloss,7LA701
+81,Heisler,10,Big Knife Creek,6L05
+82,High River,107,Macdonald,812L
+82,High River,116,Monarch,434L
+82,High River,179,Vulcan,13L/158L
+82,High River,55,Empress Liquids,753L
+82,High River,125,Okotoks,727L
+83,Highland,9,Bauer,7LA128
+84,Hilda,49,Cypress,658AL
+85,Hill,119,Nevis,7L14
+85,Hill,24,Buffalo Creek,7L42
+86,Hillridge,38,Chinook,172EL
+87,Hughenden,113,Metiskow,472L
+87,Hughenden,76,Hardisty,703L
+88,Hull,186,West Brooks,763L
+88,Hull,165,Taber,507L
+89,Hussar,62,Garden City,886L
+90,Irish Creek,175,Vegreville,7L53
+90,Irish Creek,176,Vermilion,7L117
+91,Janet,98,Lakesend,691L
+92,Jarrow,180,Wainwright,408L
+92,Jarrow,191,Windrise,491L
+93,Jenner,49,Cypress,945L
+93,Jenner,73,Halsbury,949L
+93,Jenner,121,Nilrem,951L
+93,Jenner,192,Windy Flats,601L
+93,Jenner,103,Little Bow,1002L
+94,Kettle's Hill,67,Goose Lake,616AL
+95,Killarney Lake,79,Hayter,748L
+95,Killarney Lake,113,Metiskow,749AL
+96,Kitscoty,85,Hill,7L14
+96,Kitscoty,176,Vermilion,7L130
+97,Lac La Biche,189,Whitbylake,794L/7L794
+98,Lakesend,140,Ribstone Creek,696L/7L696
+99,Lakeview,142,Riverbend,824L
+100,Lanfine,44,Cordel,9L24
+100,Lanfine,144,Rowley,7L238
+100,Lanfine,90,Irish Creek,7L116
+100,Lanfine,148,Sedalia,9L46
+100,Lanfine,144,Rowley,7L132
+101,Langdon,115,Milo,927L
+101,Langdon,115,Milo,924L
+102,Lindbergh,70,Grizzly Bear,7LA53
+103,Little Bow,132,Picture Butte,1005AL
+104,Lloydminster,127,Oyen,7L749
+104,Lloydminster,85,Hill,7L42
+105,Loyalist,57,Excel,7L110
+106,Lundbreck,184,Waterton,514L
+107,Macdonald,173,Uplands,813L
+107,Macdonald,99,Lakeview,823L
+107,Macdonald,123,North Lethbridge,667L
+108,Magcan,82,High River,727AL
+109,Magrath,66,Glenwood,225L
+109,Magrath,167,Taylor Hydro Plant,CHD-1
+109,Magrath,142,Riverbend,863L
+110,Mannix Mine,157,Stettler,6L02
+111,Marion Lake,7,Battle River,6L02
+112,McBride Lake,79,Hayter,300L/725BL
+113,Metiskow,75,Hansman Lake,954L
+113,Metiskow,92,Jarrow,472L
+113,Metiskow,53,Edgerton,749L
+113,Metiskow,75,Hansman Lake,885L
+114,Michichi Creek,104,Lloydminster,7L25
+114,Michichi Creek,160,Strome,6L56
+114,Michichi Creek,47,Coyote Lake,7L128
+114,Michichi Creek,194,Wintering Hills,7L171
+115,Milo,101,Langdon,923L
+115,Milo,101,Langdon,924L
+115,Milo,171,Travers,1036L
+115,Milo,182,Ware Junction,927L
+115,Milo,132,Picture Butte,935L
+115,Milo,169,Tilley,1005L
+116,Monarch,61,Fort Macleod,463AL
+117,Monitor,105,Loyalist,7L110
+117,Monitor,23,Buffalo Bird,7L224
+117,Monitor,131,Pemukan,7L127
+118,Namaka,89,Hussar,886L
+118,Namaka,33,Cavalier,PCES01L
+118,Namaka,173,Uplands,733L
+119,Nevis,120,Newell,912L
+119,Nevis,157,Stettler,7L143
+119,Nevis,124,Oakland,9L20
+119,Nevis,80,Heatburg,7L16
+120,Newell,19,Bowmanton,1035L
+120,Newell,115,Milo,923L
+120,Newell,29,Cassils,1088L
+120,Newell,29,Cassils,1087L
+121,Nilrem,172,Tucuman,679L
+121,Nilrem,75,Hansman Lake,1047L
+121,Nilrem,76,Hardisty,680L
+121,Nilrem,44,Cordel,953L/9L953
+122,North Holden,160,Strome,701L
+122,North Holden,175,Vegreville,7L77
+122,North Holden,69,Granum,174L
+123,North Lethbridge,196,Wyndham,770L
+123,North Lethbridge,182,Ware Junction,940L
+123,North Lethbridge,192,Windy Flats,967L
+123,North Lethbridge,138,Raymond Reservoir,207L
+123,North Lethbridge,165,Taber,172L
+123,North Lethbridge,171,Travers,1041L
+123,North Lethbridge,95,Killarney Lake,734L
+123,North Lethbridge,54,Empress,667L
+123,North Lethbridge,195,Woolchester,968L
+124,Oakland,47,Coyote Lake,9L29
+124,Oakland,100,Lanfine,9L24
+124,Oakland,2,Anderson,9L97
+124,Oakland,44,Cordel,9L70
+125,Okotoks,84,Hilda,646L
+125,Okotoks,159,Strathmore,727L
+125,Okotoks,15,Blackie,850L
+126,Oldman River,139,Red Deer,893L
+127,Oyen,100,Lanfine,7L132
+127,Oyen,122,North Holden,7L760
+127,Oyen,197,Youngstown,6L09
+128,Paintearth Creek,124,Oakland,9L27
+128,Paintearth Creek,93,Jenner,948L/9L948
+129,Peace Butte,26,Bullshead,600L
+130,Peigan,58,Fidler,616L
+130,Peigan,192,Windy Flats,1048L
+130,Peigan,67,Goose Lake,955L
+130,Peigan,186,West Brooks,1049L
+130,Peigan,68,Granlea,956L
+131,Pemukan,2,Anderson,7L79
+131,Pemukan,192,Windy Flats,966L/9L966
+131,Pemukan,100,Lanfine,9L46
+131,Pemukan,114,Michichi Creek,7L127
+132,Picture Butte,115,Milo,1005L
+132,Picture Butte,123,North Lethbridge,940L
+133,Pincher Creek,94,Kettle's Hill,613L
+133,Pincher Creek,50,Drywood,185L
+133,Pincher Creek,145,Russell,412L
+133,Pincher Creek,106,Lundbreck,514L
+134,Provost,187,Westfield,715L
+134,Provost,92,Jarrow,398L
+135,Queenstown,66,Glenwood,161L
+135,Queenstown,109,Magrath,853L
+136,Rangeland Yarrow,184,Waterton,185AL
+137,Rattlesnake Ridge,19,Bowmanton,879AL
+138,Raymond Reservoir,109,Magrath,225AL
+139,Red Deer,119,Nevis,912L
+140,Ribstone Creek,131,Pemukan,7L79
+140,Ribstone Creek,7,Battle River,696L/7L696
+141,Richdale,162,Sullivan Lake,6L09
+142,Riverbend,22,Brooks,824L
+142,Riverbend,1,Amoco Empress,863L
+142,Riverbend,40,Coalbanks,725AL
+143,Rosyth,76,Hardisty,769L
+144,Rowley,168,Three Hills,7L137
+144,Rowley,114,Michichi Creek,7L25
+145,Russell,86,Hillridge,170L
+145,Russell,60,Foothills,413L
+145,Russell,30,Castle River,412L
+146,Sand Hills Sub,65,Gleichen,871L
+147,Sandy Point,1,Amoco Empress,869L
+148,Sedalia,2,Anderson,9L46AL
+149,Sedgewick,7,Battle River,702L/7L702
+149,Sedgewick,76,Hardisty,702L
+150,Shamrock,190,Whitla,1148L
+151,Sheerness,44,Cordel,9L100
+151,Sheerness,109,Magrath,9L99
+152,Shell Waterton,129,Peace Butte,591L
+153,Soderglen,166,Taber Wind Farm,603L
+154,Spring Coulee,158,Stirling,225L
+155,St. Paul,7,Battle River,7L70
+155,St. Paul,189,Whitbylake,7L139
+156,Stavely,52,East Stavely,197L
+157,Stettler,11,Big Valley,6L44
+157,Stettler,188,Wheatland,7L143
+157,Stettler,111,Marion Lake,6L02
+158,Stirling,112,McBride Lake,225L
+158,Stirling,46,Cowley Ridge,508L
+158,Stirling,174,Vauxhall,820L
+159,Strathmore,65,Gleichen,733L
+159,Strathmore,36,Chestermere,765L
+160,Strome,122,North Holden,701L
+160,Strome,149,Sedgewick,701L/7L701
+161,Suffield,1,Amoco Empress,100L
+161,Suffield,193,Windy Point,892L
+162,Sullivan Lake,7,Battle River,6L03
+162,Sullivan Lake,32,Castor,6L15
+162,Sullivan Lake,74,Hanna,6L12
+163,Summerview,60,Foothills,624L
+164,Sunken Lake,87,Hughenden,472AL
+165,Taber,5,Bardo,172L
+165,Taber,59,Fincastle,610L
+165,Taber,183,Warner,507L
+166,Taber Wind Farm,43,Conrad,607AL
+167,Taylor Hydro Plant,118,Namaka,CHD-1
+168,Three Hills,80,Heatburg,7L159
+168,Three Hills,155,St. Paul,7L137
+169,Tilley,161,Suffield,100L
+169,Tilley,107,Macdonald,666L
+170,Tinchebray,2,Anderson,9L93
+170,Tinchebray,63,Garden Plain,9L59
+170,Tinchebray,44,Cordel,9L16
+171,Travers,192,Windy Flats,1036L
+171,Travers,16,Blackspring Ridge,1041L
+171,Travers,121,Nilrem,1042L
+172,Tucuman,180,Wainwright,704L
+172,Tucuman,121,Nilrem,679L
+172,Tucuman,121,Nilrem,680L
+172,Tucuman,36,Chestermere,681L
+173,Uplands,22,Brooks,813L
+173,Uplands,123,North Lethbridge,734L
+174,Vauxhall,88,Hull,763L
+174,Vauxhall,78,Hays,821L
+175,Vegreville,176,Vermilion,7L65
+175,Vegreville,177,Veteran,7L77
+175,Vegreville,178,Vilna,7L92
+176,Vermilion,18,Bonnyville,7L65
+176,Vermilion,96,Kitscoty,7L129
+176,Vermilion,127,Oyen,7L130
+176,Vermilion,117,Monitor,7L117
+177,Veteran,140,Ribstone Creek,7L79
+178,Vilna,189,Whitbylake,7L92
+179,Vulcan,52,East Stavely,180L
+179,Vulcan,135,Queenstown,161L
+180,Wainwright,75,Hansman Lake,704L
+180,Wainwright,133,Pincher Creek,408L
+181,Wardlow,93,Jenner,601L
+182,Ware Junction,93,Jenner,951L
+182,Ware Junction,2,Anderson,950L/9L950
+182,Ware Junction,186,West Brooks,1075L
+182,Ware Junction,93,Jenner,944L
+182,Ware Junction,2,Anderson,934L/9L934
+182,Ware Junction,2,Anderson,933L/9L933
+182,Ware Junction,29,Cassils,1053L
+182,Ware Junction,186,West Brooks,931L
+183,Warner,158,Stirling,508L
+184,Waterton,152,Shell Waterton,591L
+184,Waterton,133,Pincher Creek,185L
+185,Watt Lake,21,Briker,7LA92
+186,West Brooks,169,Tilley,666L
+186,West Brooks,135,Queenstown,853L
+186,West Brooks,159,Strathmore,763L
+186,West Brooks,49,Cypress,827L
+186,West Brooks,29,Cassils,1051L
+186,West Brooks,37,Chin Chute,814L
+186,West Brooks,29,Cassils,1052L
+186,West Brooks,120,Newell,1075L
+186,West Brooks,182,Ware Junction,931L
+187,Westfield,27,Burdett,722L
+188,Wheatland,194,Wintering Hills,7L153
+189,Whitbylake,22,Brooks,794L/7L794
+189,Whitbylake,96,Kitscoty,7L139
+189,Whitbylake,83,Highland,7L92
+190,Whitla,67,Goose Lake,983L
+190,Whitla,14,Black Diamond,1148L
+190,Whitla,75,Hansman Lake,964L
+191,Windrise,192,Windy Flats,497L
+192,Windy Flats,60,Foothills,1037L
+192,Windy Flats,60,Foothills,1038L
+192,Windy Flats,3,Ardenville Wind Farm,608L
+192,Windy Flats,130,Peigan,1048L
+192,Windy Flats,153,Soderglen,603L
+192,Windy Flats,123,North Lethbridge,967L
+192,Windy Flats,123,North Lethbridge,968L
+192,Windy Flats,130,Peigan,1049L
+192,Windy Flats,88,Hull,497L
+193,Windy Point,58,Fidler,893AL
+194,Wintering Hills,75,Hansman Lake,7L171
+194,Wintering Hills,168,Three Hills,7L153
+194,Wintering Hills,4,Badlands,7L85
+195,Woolchester,19,Bowmanton,983AL
+196,Wyndham,28,Carseland,782L
+197,Youngstown,141,Richdale,6L09
+198,Youngstown Express,45,Coronation,6L21
+199,na,60,Foothills,1106L
+199,na,150,Shamrock,1107L
