@@ -4,6 +4,34 @@ import numpy as np
 
 
 class RbSim:
+    """
+    RbSim class is used for running simulations on a given model and null model. It provides methods for running random and targeted attacks on the given model. It also calculates various
+    * statistics and metrics for the model.
+
+    Attributes:
+    - model: The main model for the simulation.
+    - null_model: The null model for the simulation.
+    - G: The graph associated with the model.
+    - GN: The graph associated with the null model.
+    - RGG: The random geometric graph associated with the null model.
+    - level: The level of attack to be performed.
+    - type: The type of attack performed.
+    - total: The total number of nodes removed in the attack.
+    - title: The title of the simulation.
+    - clust_coeff: List of clustering coefficients for each attack iteration.
+    - n_comp: List of the number of connected components for each attack iteration.
+    - lg_con_comp: List of the size of the largest connected component for each attack iteration.
+    - short_path_per_comp: List of the average shortest path length per connected component for each attack iteration.
+    - avg_deg: List of average degree for each attack iteration.
+    - nplt: An instance of the plotting class.
+
+    Methods:
+    - run_sim_random(nruns): Runs a random attack simulation for the given number of runs.
+    - run_sim_target_btwn(): Runs a targeted attack simulation based on betweenness centrality.
+    - random_attack(g, rgg): Performs a random attack on the graph and random geometric graph.
+    - targeted_attack_btwn(btwn, g, rgg): Performs a targeted attack on the graph and random geometric graph based on betweenness centrality.
+    - stats(g, save=False): Calculates various statistics and metrics for the given graph.
+    """
     def __init__(self, model, null_model):
         self.model = model
         self.null_model = null_model
